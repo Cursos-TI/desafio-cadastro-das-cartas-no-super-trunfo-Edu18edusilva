@@ -9,13 +9,21 @@
 int main() {
     
     // Declarando as variáveis.
-    char estado, codigoDaCarta, nomeDaCidade [50];
-    int populacao;
+    char estado;
+    char nomeDaCidade, codigoDaCarta [50];
+    int populacao, numeroDePontosTuristicos;
+    float area, pib;
 
 
     // Dados da primeira cidade.
-    printf ("Digite a letra do estado: ");
-    scanf ("")
+    printf ("Digite a letra do estado: \n");
+    scanf ("%s", & estado);
+
+    printf ("Digite o código da cidade: \n");
+    scanf ("%s", & codigoDaCarta);
+
+
+    printf ("%s \n", codigoDaCarta);
 
 
 };
