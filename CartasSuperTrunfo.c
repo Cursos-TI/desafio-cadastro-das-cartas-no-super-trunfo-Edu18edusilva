@@ -9,7 +9,8 @@
 int main() {
     
     // Declarando as variáveis.
-    char estado;
+    char estado, codigoDaCarta, nomeDaCidade [50];
+    int populacao;
 
 
     // Dados da primeira cidade.
@@ -17,4 +18,4 @@ int main() {
     scanf ("")
 
 
-};
+}
