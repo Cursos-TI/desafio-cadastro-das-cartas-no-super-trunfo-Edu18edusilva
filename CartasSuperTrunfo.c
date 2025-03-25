@@ -23,7 +23,7 @@ int main() {
     scanf ("%s", & codigoDaCarta);
 
 
-    printf ("%s \n", codigoDaCarta);
+
 
 
 };
