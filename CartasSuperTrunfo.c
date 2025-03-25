@@ -23,7 +23,6 @@ int main() {
     scanf ("%s", & codigoDaCarta);
 
 
-
-
+    return 0;
 
 };
