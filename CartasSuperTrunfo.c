@@ -11,7 +11,7 @@ int main() {
 
     // Declarando as variáveis.
 
-    char estado1 [4], estado2 [4];
+    char estado1 [2], estado2 [2];
     char codigoDaCarta1 [50], codigoDaCarta2 [50];
     char nomeDaCidade1 [50], nomeDaCidade2 [50];
     int populacao1, populacao2;
